@@ -9,9 +9,7 @@ A new Flutter project.
     <td><img src="images/1676259359320_100.PNG" </td>
   </tr>
   <tr>
-  
     <td><img src="images/ezgif-1-27141a7bd4.gif" </td>
-    
   </tr>
  </table>
 ## Getting Started
